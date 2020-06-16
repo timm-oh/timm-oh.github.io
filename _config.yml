@@ -21,7 +21,7 @@
 title: '@timm_oh'
 email: omegoshi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Developer from Johannesburg, South Africa
+  Software Developer | Johannesburg, South Africa
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "timm-oh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: timm_oh
@@ -32,6 +32,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  skin: dark
+  social_links:
+    instagram: 'timm_oh'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
