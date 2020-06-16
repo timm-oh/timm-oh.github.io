@@ -4,6 +4,7 @@
 
 layout: home
 ---
+![header](https://www.gravatar.com/avatar/11f09ff24794ba869026a92ec7566662?s=300)
 
 Hello World, I am Tim :)
 
@@ -22,4 +23,8 @@ Languages that I am exploring are Rust and Elixir (with Phoenix).
 
 I have also deployed applications to Heroku and have experience with the AWS infrastructure.
 
-For more information head over to my [LinkedIn](https://www.linkedin.com/in/tim-mccarthy-a73930a1/)
+- [LinkedIn](https://www.linkedin.com/in/tim-mccarthy-a73930a1/)
+- [Github](https://github.com/timm-oh)
+- [Instagram](https://www.instagram.com/timm_oh)
+- [Facebook](https://www.facebook.com/ohtimmm)
+- [Twitter](https://twitter.com/timm_oh)
