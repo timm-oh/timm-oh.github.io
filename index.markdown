@@ -11,8 +11,8 @@ Hello World, I'm Tim :D
 A polygot software developer that primarily develops in [Ruby on Rails](https://rubyonrails.org).
 
 Work experience:
-  - Future me: Eng 2 @ Mollie [Mollie](https://www.mollie.com)
-  - Currently: Senior Software Developer @ [Risk Methods](https://www.riskmethods.net)
+  - Future me: Eng 2 @ [Mollie](https://www.mollie.com)
+  - 2021/03 - Now: Senior Software Developer @ [Risk Methods](https://www.riskmethods.net)
   - 2017/10 - 2021/01: Tech Lead @ [Howler](https://www.howler.co.za)
   - 2016/02 - 2017/09: Software Developer @ [SVA Innovate](https://sva-holdings.co.za/)
 
