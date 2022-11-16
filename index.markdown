@@ -11,26 +11,36 @@ Hello World, I'm Tim :D
 A polygot software developer that primarily develops in [Ruby on Rails](https://rubyonrails.org).
 
 Work experience:
-  - Future me - Senior Software Developer @ [Risk Methods](https://www.riskmethods.net)
-  - Currently - Taking a break
-  - 2017/10 - 2021/01 - Tech Lead @ [Howler](https://www.howler.co.za)
-  - 2016/02 - 2017/09 - Software Developer @ [SVA Innovate](https://sva-holdings.co.za/)
+  - Future me: Eng 2 @ Mollie [Mollie](https://www.mollie.com)
+  - Currently: Senior Software Developer @ [Risk Methods](https://www.riskmethods.net)
+  - 2017/10 - 2021/01: Tech Lead @ [Howler](https://www.howler.co.za)
+  - 2016/02 - 2017/09: Software Developer @ [SVA Innovate](https://sva-holdings.co.za/)
 
 Languages that I know enough to be dangerous with:
   - Ruby
-  - Java
   - JavaScript
-  - PHP (jury is out on this one)
+  - Elixir
+  - Java
 
 Frameworks that I think I know:
   - Ruby on Rails (jokes, I know this one pretty well)
   - Android
   - StimulusJS
+  - React, VueJS (basically hooks right?)
 
 Databases that I've tinkered with:
   - PostgreSQL
   - MySQL
-  - Mongo (I can't even)
+  - Mongo (but why)
+  - Redis
+
+Interesting things I've learnt so far:
+  - Monoliths are great
+  - Services make sense when you understand your domain
+  - Conway's law
+  - Price's law
+  - Water - scrum - fall
+  - Docker / OCI is preeeetty sweet
 
 Software things that really get me excited:
   - MAKING A MESS - rapid prototyping
@@ -41,15 +51,16 @@ Primary deployed applications to Heroku, with sprinkles of AWS services (i.e S3,
 
 Personal Todo List:
   - Learn Rust
-  - Learn Elixir (with Phoenix)
-  - Aquaponics / Indoor Gardening
+  - Learn Elixir (with Phoenix) ✅
+  - Aquaponics / Indoor Gardening ✅
   - Start a blog of sorts
   - Solve world hunger
 
 WIP:
+  - Emigrating to Germany (Feb 2022) ✅
+  - Moving to Amsterdam (March 2023)
   - Building Payment Gateway Aggregator
   - Solving my own hunger (improving my cooking skillz)
-  - Emigrating to Germany
 
 Socials:
   - [LinkedIn](https://www.linkedin.com/in/tim-mccarthy-a73930a1/)
